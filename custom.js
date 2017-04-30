@@ -120,10 +120,10 @@ $(function(){
   $(function(){
     jQuery(document).ready(function() {
     $('#contact').backstretch([
-       "http://www.slate.com/content/dam/slate/blogs/wild_things/2015/09/02/150902_WILD_CutePenguins.jpg.CROP.promo-xlarge2.jpg",
-       "http://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-34.jpg",
-       "https://i.ytimg.com/vi/1LqyOX12_nQ/maxresdefault.jpg",
-       "http://kingworldnews.com/wp-content/uploads/2014/12/KWN-Worlds-Cutest-Baby-Animals-3.jpg"
+       "https://c1.staticflickr.com/5/4041/5148036432_30c49e0555_b.jpg",
+       "https://images5.alphacoders.com/399/399847.jpg",
+       "https://wallpaperscraft.com/image/san_francisco_fog_lights_79360_2560x1440.jpg",
+       "http://geotourist.com/news/wp-content/uploads/2015/08/geo-AIA-sf-city-hall.jpg"
         ],  {duration: 2000, fade: 750});
     });
   })
