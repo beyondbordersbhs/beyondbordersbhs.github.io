@@ -120,7 +120,7 @@ $(function(){
   $(function(){
     jQuery(document).ready(function() {
     $('#contact').backstretch([
-       "http://static.spin.com/files/2015/10/Drake-Duck-Hotline-Bling-Gif.gif",
+       "https://static.pexels.com/photos/66997/pexels-photo-66997.jpeg",
        "https://media.giphy.com/media/3osxY7eI6enqNBo2mQ/giphy.gif",
        "http://www.gpwa.org/forum/images/imported/2014/01/funnygifswhennoonesaroundlarge-1.gif"
         ],  {duration: 2000, fade: 750});
